@@ -1,0 +1,15 @@
+{
+	"name": "adf-carproject-nithya",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd0deb5c-4fd7-41fa-a2d5-0477b0f3f8ac",
+		"tenantId": "03014579-700a-4a89-bf92-95ca14660023"
+	}
+}
